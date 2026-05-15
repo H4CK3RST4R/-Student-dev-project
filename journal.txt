@@ -1,0 +1,7 @@
+Journal de bord - Projet Git
+1. Création du dossier local student-dev-project.
+2. Initialisation du dépôt Git avec la commande git init.
+3. Création des fichiers index.html et journal.txt dans VS Code.
+4. Rédaction de la structure HTML et des premières compétences.
+5. Premier commit effectué pour enregistrer la base du projet.
+Difficulté rencontrée : Configuration du terminal Git Bash dans VS Code.
