@@ -1,7 +1,11 @@
-Journal de bord - Projet Git
-1. Création du dossier local student-dev-project.
-2. Initialisation du dépôt Git avec la commande git init.
-3. Création des fichiers index.html et journal.txt dans VS Code.
-4. Rédaction de la structure HTML et des premières compétences.
-5. Premier commit effectué pour enregistrer la base du projet.
-Difficulté rencontrée : Configuration du terminal Git Bash dans VS Code.
+Journal de bord du projet - Bataille Hugues Johnson
+
+ÉTAPES RÉALISÉES :
+1. Création de la structure locale du projet "student-dev-project" avec les fichiers index.html et journal.txt.
+2. Développement du code HTML5 pour structurer la page de présentation (titre principal, paragraphes, listes de compétences).
+3. Intégration et organisation des ressources visuelles (photos de shooting de mannequinat, affiche de court-métrage et capture de topologie réseau).
+4. Initialisation du dépôt Git local, enregistrement progressif des modifications (commits) et liaison avec le dépôt distant GitHub.
+
+DIFFICULTÉS RENCONTRÉES ET SOLUTIONS :
+- Problème d'imbrication des dossiers : Au départ, l'image de la topologie réseau (reseau.png) ne s'affichait pas dans le navigateur car elle était située dans un sous-dossier "images" dupliqué. J'ai résolu ce problème en corrigeant le chemin d'accès relatif dans la balise img en spécifiant "images/images/reseau.png".
+- Gestion des versions : Compréhension du flux Git (add, commit, push) pour synchroniser correctement le travail local vers GitHub Pages.
